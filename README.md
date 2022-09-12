@@ -18,7 +18,7 @@ While I get my actual website set up (in which I will create a separate repo for
 
 :bar_chart: Panels -  My panel-running interests include:
 * Asian comics and animation produced outside of Japan (such as manhua and donghua) 
-* The (anime) link between Japan and German-speaking countries ("the DACH region")
+* The (anime) link between Japan and non-Japanese countries speaking my target languages
 * The history of anime
 * Personal finance in context of fan conventions
 
@@ -31,12 +31,14 @@ While I get my actual website set up (in which I will create a separate repo for
 
 ## Portfolio
 
-### An Otaku's Guide to Donghua / Those Chinese Cartoons
+### An Otaku's Guide to Donghua
 
 **Cons**: Tsukino-Con 2020, Anime North Online (30-minute version under A Taste of Those Chinese Cartoons), KuroCon V2,  Anime North: Stay at Home (2021),
 Sakura-Con 2022, Anime North 2022, Otakon 2022
 
 A look at Chinese animation (donghua) that resembles anime, plus how Chinese animation overall impacted the Japanese anime industry.
+
+Note: I previously ran this panel as "Those Chinese Cartoons" before Anime North: Stay at Home Edition.
 
 ### Congoing on a Budget
 
@@ -44,16 +46,19 @@ A look at Chinese animation (donghua) that resembles anime, plus how Chinese ani
 
 Cons can be expensive to attend, but they don’t have to be! Come learn new tips to attend cons for less.
 
-### Mario: The Brand Ambassador (Anime North Online)
+### DACH in Anime
+
+A look at anime set in (or heavily inspired by) Germany, Austria, and Switzerland aka "the DACH region".
+
+### Mario: The Brand Ambassador (Anime North: Momiji's Online Experience)
 
 From Kraft Dinner to LEGO, come take a look at some of the tie-in products that Nintendo characters hawked over the past ~35 years!
-
 
 ## Other Panels
 
 * Korean Manhwa (Anime North 2022, with Chris and Orion)
 * Fans in the Professional Workplace (Anime North 2022 with Sabrina, Nick, and Demetre)
-* An Introduction to Yokai (Akimatsuri and Tsukino-Con 2020, now in KuroRaiden's custody)
+* An Introduction to Yokai (Akimatsuri 2019 and Tsukino-Con 2020, now in KuroRaiden's custody)
 
 ## Contact
 
