@@ -1,4 +1,4 @@
-# Hi, I'm Mich (she/they) 👋
+# Hi, I'm Mich (she/her & they/them) 👋
 
 ![](https://c.tenor.com/UY8XkRHVpMEAAAAC/gawr-gura.gif)
 
@@ -8,7 +8,7 @@ I'm an anime convention fan presenter who works as a software developer beyond t
 
 ## Contact
 
-WebL http://togarashimayo.com
+Web: http://togarashimayo.com
 
 Twitter: [@togarashimayo](http://twitter.com/togarashimayo)
 
