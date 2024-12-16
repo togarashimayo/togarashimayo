@@ -12,6 +12,6 @@ Web: http://togarashimayo.com
 
 Bluesky: [@togarashimayo.com](https://bsky.app/profile/togarashimayo.com)
 
-Instagram: [@togarashimayonnaise](http://instagram.com/togarashimayonnaise)
+Instagram: [@togarashimayogram](http://instagram.com/togarashimayogram)
 
 Email: firstname@togarashimayo.com
